@@ -1,0 +1,12 @@
+{
+  "name": "ftp-recursive-delete",
+  "version": "1.0.0",
+  "description": "Delete a non-empty folder over FTP",
+  "main": "index.js",
+  "repository": "https://github.com/tobymurray/ftp-recursive-delete.git",
+  "author": "Toby Murray <murray.toby+github@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsftp": "^1.5.5"
+  }
+}
